@@ -4,6 +4,8 @@ Create Radio Menus for your DCS missions without having to code in Lua or to get
 
 This program was initially created for the members of Lock-On Greece, hence the logo and title. If you are interested in a custom version for your Squadron, contact me.
 
+**Need help?** https://discord.gg/e9fzMe9erA
+
 ![image](https://github.com/user-attachments/assets/dee87984-99f2-4368-8034-0762433da162)
 
 **Menu Builder**
